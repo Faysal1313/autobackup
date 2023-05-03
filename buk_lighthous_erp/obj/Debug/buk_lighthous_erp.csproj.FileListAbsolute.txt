@@ -1,0 +1,10 @@
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\buk_lighthous_erp.exe.config
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\buk_lighthous_erp.exe
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\buk_lighthous_erp.pdb
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\Topshelf.dll
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\Topshelf.xml
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\obj\Debug\buk_lighthous_erp.csproj.CoreCompileInputs.cache
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\obj\Debug\buk_lighthous_erp.csproj.CopyComplete
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\obj\Debug\buk_lighthous_erp.exe
+D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\obj\Debug\buk_lighthous_erp.pdb

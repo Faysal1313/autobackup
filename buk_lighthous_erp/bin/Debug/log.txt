@@ -1,0 +1,93 @@
+<<4/24/2023 11:56:41 PM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/24/2023 11:56:51 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:57:01 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:57:17 PM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/24/2023 11:57:40 PM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/24/2023 11:57:50 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-24:23**
+ 	<<4/24/2023 11:57:50 PM>> 
+ 	Connect Database Successfully  ......
+ 	<<4/24/2023 11:57:52 PM>> 
+ 	use master backup database f1 to Disk ='D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\f1 2023-04-24-23-57-50.bac'
+ 	<<4/24/2023 11:57:56 PM>> 
+ 	2023-04-25:23    @#$@#$@#$@#$@#$@#$@#$@
+ 	<<4/24/2023 11:57:56 PM>> 
+ 	.............Shut down service Lighthouse erp  auto Backup...........
+ 	<<4/24/2023 11:57:56 PM>> 
+ 	**********************Restart service Lighthouse erp  auto Backup*****************************
+ 	<<4/24/2023 11:57:56 PM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/24/2023 11:58:06 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:58:16 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:58:26 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:59:28 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:59:38 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:59:48 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/24/2023 11:59:58 PM>> 
+ 	timer_houer1 :**2023-04-24:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/25/2023 12:00:08 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/25/2023 12:00:10 AM>> 
+ 	use master backup database f1 to Disk ='D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\f1 2023-04-25-00-00-08.bac'
+ 	<<4/25/2023 12:00:25 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-25:23**
+ 	<<4/25/2023 12:00:31 AM>> 
+ 	use master backup database f1 to Disk ='D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\f1 2023-04-25-00-00-25.bac'
+ 	<<4/25/2023 12:00:31 AM>> 
+ 	2023-04-26:23    @#$@#$@#$@#$@#$@#$@#$@
+ 	<<4/25/2023 12:00:31 AM>> 
+ 	.............Shut down service Lighthouse erp  auto Backup...........
+ 	<<4/25/2023 12:00:31 AM>> 
+ 	**********************Restart service Lighthouse erp  auto Backup*****************************
+ 	<<4/25/2023 12:00:31 AM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/25/2023 12:00:32 AM>> 
+ 	2023-04-26:23    @#$@#$@#$@#$@#$@#$@#$@
+ 	<<4/25/2023 12:00:32 AM>> 
+ 	.............Shut down service Lighthouse erp  auto Backup...........
+ 	<<4/25/2023 12:00:32 AM>> 
+ 	**********************Restart service Lighthouse erp  auto Backup*****************************
+ 	<<4/25/2023 12:00:32 AM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/25/2023 12:00:42 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-26:23**
+ 	<<4/25/2023 12:00:52 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-26:23**
+ 	<<4/25/2023 12:01:02 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-26:23**
+ 	<<4/25/2023 11:00:55 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-26:23**
+ 	<<4/25/2023 11:01:05 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-26:23**
+ 	<<4/25/2023 11:01:15 AM>> 
+ 	timer_houer1 :**2023-04-25:23** in file pram timer_houer2 :**2023-04-26:23**
+ 	<<4/26/2023 11:01:20 AM>> 
+ 	timer_houer1 :**2023-04-26:23** in file pram timer_houer2 :**2023-04-26:23**
+ 	<<4/26/2023 11:01:22 AM>> 
+ 	use master backup database f1 to Disk ='D:\Project-Csharp\buk_lighthous_erp\buk_lighthous_erp\bin\Debug\f1 2023-04-26-11-01-20.bac'
+ 	<<4/26/2023 11:01:22 AM>> 
+ 	2023-04-27:23    @#$@#$@#$@#$@#$@#$@#$@
+ 	<<4/26/2023 11:01:22 AM>> 
+ 	.............Shut down service Lighthouse erp  auto Backup...........
+ 	<<4/26/2023 11:01:22 AM>> 
+ 	**********************Restart service Lighthouse erp  auto Backup*****************************
+ 	<<4/26/2023 11:01:22 AM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/26/2023 11:01:32 AM>> 
+ 	timer_houer1 :**2023-04-26:23** in file pram timer_houer2 :**2023-04-27:23**
+ 	<<4/25/2023 12:02:08 AM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	<<4/25/2023 12:02:24 AM>> 
+ 	................Start service Lighthouse erp  auto Backup...........
+ 	
